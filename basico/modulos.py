@@ -3,7 +3,7 @@
 #importa tudo.
 import math
 
-#importa só o metodo
+#importa um metodo especifico
 from math import sqrt
 
 num = int(input('Digite um número para descobrir a raiz quadrada dele:\n'))
